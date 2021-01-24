@@ -1,4 +1,4 @@
-# Readmne
+# Readme
 This project was created to solve the QA WEb Exercise for Bring Global.
 
 It was created in Windows 10 using:
